@@ -1,1 +1,1 @@
-# res-with-spring-boot-java
+# rest-with-spring-boot-java
