@@ -1,4 +1,4 @@
-package br.com.raspexemple.apitest;
+package br.com.raspexemple.calc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
