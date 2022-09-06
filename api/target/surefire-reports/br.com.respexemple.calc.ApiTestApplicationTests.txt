@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: br.com.respexemple.calc.ApiTestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.154 s <<< FAILURE! - in br.com.respexemple.calc.ApiTestApplicationTests
+br.com.respexemple.calc.ApiTestApplicationTests  Time elapsed: 0.153 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
